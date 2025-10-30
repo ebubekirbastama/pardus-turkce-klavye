@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Türkçe Klavye
+Comment=Klavye düzenini Türkçe (Q) olarak ayarlar
+Exec=setxkbmap tr
+Icon=input-keyboard
+Terminal=false
+StartupNotify=false
